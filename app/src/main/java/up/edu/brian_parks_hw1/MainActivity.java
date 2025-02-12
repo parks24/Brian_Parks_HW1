@@ -1,3 +1,5 @@
+/// @author Brian_Parks
+
 package up.edu.brian_parks_hw1;
 
 import android.os.Bundle;
